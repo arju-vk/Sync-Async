@@ -1,1 +1,1 @@
-"# Sync-Async" 
+# Synchronous JavaScript and Asynchronous JavaScript.
